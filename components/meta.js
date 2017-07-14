@@ -26,13 +26,14 @@ export default () => (
 
       a {
         color: #eaaaaa;
-        -webkit-tap-highlight-color: rgba(0,0,0,0);
+        text-decoration: none;
       }
 
       a:hover {
+        background-color: #eaaaaa;
         color: #fff;
-        background: #eaaaaa;
-        text-decoration: none;
+        padding: 1px;
+        border-radius: 2px;
       }
 
       /* loading progress bar styles */

@@ -3,20 +3,22 @@ export default ({ children }) => (
     <a href="#">{ children }</a>
     <style jsx>{`
       h1 {
-        font: 18px Helvetica Neue, Helvetica,
+        font: 18px "Avenir Next", Avenir, Helvetica,
           Arial, "Lucida Grande", sans-serif;
-        font-weight: 500;
+        font-weight: 300;
         margin-bottom: 10px;
       }
 
       a {
-        color: #FF001F;
+        color: #eaaaaa;
         text-decoration: none;
       }
 
       a:hover {
-        background-color: #FF001F;
-        color: #fff;
+        background-color: #eaaaaa;
+	color: #fff;
+        padding: 3px; 
+        border-radius: 2px;
       }
     `}</style>
   </h1>

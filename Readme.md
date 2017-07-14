@@ -1,7 +1,6 @@
 # blog
 
-This is the blog that powers `rauchg.com`, built on
-[next.js](https://zeit.co/blog/next) and
+This is was built with [next.js](https://zeit.co/blog/next) and
 deployed to the cloud via [now](https://zeit.co/now).
 
 Depends on the [blog-views](https://github.com/rauchg/blog-views) microservice

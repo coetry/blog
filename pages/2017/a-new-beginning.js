@@ -11,7 +11,7 @@ export default () => (
     <Head><title>A New Beginning</title></Head>
     <Title>A New Beginning</Title>
     
-    <P>This is a new beginning, may it be fruitful</P>
+    <P>This is a new beginning, may it be fruitful.</P>
     
     <P>بسم الله</P>
    
