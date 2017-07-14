@@ -5,16 +5,16 @@ import Head from 'next/head'
 export default () => (
   <Page>
     <Head>
-      <title>Guillermo Rauch</title>
+      <title>Allen Hai</title>
     </Head>
 
     <div className="home">
       <div className="main">
-        <h1>Guillermo Rauch</h1>
+        <h1>Allen Hai </h1>
         <nav>
-          <a target="_blank" href="https://twitter.com/rauchg">Twitter</a>
+          <a target="_blank" href="https://twitter.com/coetry">Twitter</a>
           <Link href="/essays"><a>Essays</a></Link>
-          <a href="mailto:rauchg@gmail.com">Email</a>
+          <a href="mailto:hai@growinfinitely.com">Email</a>
         </nav>
       </div>
     </div>

@@ -25,13 +25,13 @@ export default () => (
       }
 
       a {
-        color: #22BAD9;
+        color: #eaaaaa;
         -webkit-tap-highlight-color: rgba(0,0,0,0);
       }
 
       a:hover {
         color: #fff;
-        background: #22BAD9;
+        background: #eaaaaa;
         text-decoration: none;
       }
 
@@ -41,7 +41,7 @@ export default () => (
       }
 
       #nprogress .bar {
-        background: #22BAD9;
+        background: #eaaaaa;
         position: fixed;
         z-index: 1031;
         top: 0;
