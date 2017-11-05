@@ -4,7 +4,7 @@ import Link from 'next/prefetch'
 export default ({ children }) => (
   <div className="main">
     <div className="logo">
-      <Link href="/"><a>coetry.me</a></Link>
+      <Link href="/"><a>coetry.tech</a></Link>
       {' '}
       (<a href={`https://github.com/coetry/blog`} target="_blank">src</a>)
     </div>
